@@ -1,0 +1,14 @@
+{
+    "config": {
+
+    "platform-check": false
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"}
+    },
+    "require": {
+        "nfephp-org/sped-nfe" : "^5.0",
+        "nfephp-org/sped-da": "^1.1"
+    }
+}
